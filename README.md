@@ -1,4 +1,4 @@
-# Wine Quality Prediction using Machine Learning
+# Wine Quality Prediction using Supervised Learning
 
 This project was completed as part of CU Boulder's MS Data Science program. 
 
